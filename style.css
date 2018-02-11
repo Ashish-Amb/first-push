@@ -1,0 +1,49 @@
+header{
+	text-align: center;
+	background-color: azure;
+	border: 1px solid aquamarine;
+	border-radius: 30px;
+	color: green;
+	font-size: 50px;
+	font-family: 'Sofia'; 
+}
+body{
+	background-color: #468DEE;
+	font-family: 'Sofia';
+	font-size: 30px;
+	padding: 30px;
+}
+*{
+	box-sizing: border-box;
+}
+.container{
+	font-size: 35px;
+	padding: 10px;
+	background-color: #6795F3;
+	border: 2px solid indigo;
+	border-radius: 20px
+}
+
+
+.edu_wrap{
+	background-color: #FFECFB;
+	border:2px solid crimson;
+	border-radius: 30px;
+	padding: 10px;
+}
+.emp_wrap{
+	display: inline-block;
+	background-color: #3EEDD2;
+	border: 2px solid palegreen;
+	border-radius: 30px;
+	padding:10px;
+}
+.contact_wrap{
+	background-color: #FFAD64;
+	border:2px solid orange;
+	border-radius: 30px;
+	padding: 10px;
+}
+.edu_wrap:hover{
+	background-color: #FAE25E;
+}
